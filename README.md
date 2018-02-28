@@ -1,1 +1,2 @@
-text
+<!DOCTYPE html>
+<html>
