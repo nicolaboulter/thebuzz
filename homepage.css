@@ -1,5 +1,14 @@
 h1 {
   background-color: #808080;
-  font: white;
-  font-style: font-family: 'Marvel', sans-serif; 
+  font: #FFFFFF;
+  font-style: font-family: 'Marvel', sans-serif;
 }
+
+ul {
+      padding: 10px;
+      background: #808080;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
