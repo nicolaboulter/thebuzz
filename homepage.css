@@ -2,7 +2,7 @@ h1 {
   background-color: #808080;
   font: #FFFFFF;
   font-size: 50px
-  font-family: 'Lobster', cursive;
+  font-family: 'Permanent Marker', cursive;
 }
 
 ul {
@@ -16,4 +16,7 @@ ul {
       padding: 0px 10px 0px 10px;
     }
 
-h2
+.maintitle {
+  font-family: 'Permanant Marker', cursive;
+  font-size: 50px
+}
