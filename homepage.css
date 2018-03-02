@@ -1,12 +1,13 @@
 h1 {
   background-color: #808080;
   font: #FFFFFF;
-  font-style: font-family: 'Marvel', sans-serif;
+  font-family: 'Lobster', cursive;
 }
 
 ul {
-      padding: 10px;
       background: #808080;
+      font: #FFFFFF;
+      font-family: 'Marvel', sans-serif;
     }
     li {
       display: inline;
