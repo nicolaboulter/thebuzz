@@ -13,7 +13,7 @@ ul {
 
 
 .maintitle {
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Abril Fatface', cursive;
   font-size: 50px
 }
 
@@ -25,9 +25,9 @@ article {
       margin: 0 auto;
     }
 h2 {
-font-family: 'Permanent Marker', cursive;
+font-family: 'Abril Fatface', cursive;
 font-size: 30px
-padding: 0}
+}
 
 p {
   font-family: 'Marvel', sans-serif;
