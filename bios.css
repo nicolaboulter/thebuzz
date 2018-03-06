@@ -14,7 +14,7 @@ font-size: 30px
 ul {
   font-family: 'Marvel', sans-serif;
   font-size: 20px;
-  display: inline;
-  padding: 0px 20px 10px 20px;
-  margin: 40px
+  max-width: 740px;
+  padding: 20px;
+  margin: 0 auto;
 }
