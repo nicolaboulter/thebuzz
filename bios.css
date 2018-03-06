@@ -20,3 +20,10 @@ ul {
   padding: 20px;
   margin: 0 auto;
 }
+
+.ollypic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
